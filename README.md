@@ -10,5 +10,5 @@ Este projeto extrai textos e imagens de arquivos PDF de provas de concursos.
 ## Configuração do Ambiente
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/ClaudioRob/extract-data-toPDF.git
    cd extracao_provas
